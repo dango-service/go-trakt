@@ -1,0 +1,17 @@
+[
+  {
+    "type": "show",
+    "score": 1000.0,
+    "show": {
+      "title": "Breaking Bad",
+      "year": 2008,
+      "ids": {
+        "trakt": 1388,
+        "slug": "breaking-bad",
+        "tvdb": 81189,
+        "imdb": "tt0903747",
+        "tmdb": 1396
+      }
+    }
+  }
+]

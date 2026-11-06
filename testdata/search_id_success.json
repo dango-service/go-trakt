@@ -1,0 +1,17 @@
+[
+  {
+    "type": "show",
+    "score": 1000.0,
+    "show": {
+      "title": "Attack on Titan",
+      "year": 2013,
+      "ids": {
+        "trakt": 46263,
+        "slug": "attack-on-titan",
+        "tvdb": 267440,
+        "imdb": "tt2560140",
+        "tmdb": 1429
+      }
+    }
+  }
+]

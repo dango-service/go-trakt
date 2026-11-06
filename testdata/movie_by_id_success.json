@@ -1,0 +1,16 @@
+{
+  "title": "Inception",
+  "year": 2010,
+  "ids": {
+    "trakt": 16,
+    "slug": "inception-2010",
+    "imdb": "tt1375666",
+    "tmdb": 27205
+  },
+  "overview": "A thief who steals corporate secrets through the use of dream-sharing technology.",
+  "released": "2010-07-16",
+  "runtime": 148,
+  "rating": 8.6,
+  "votes": 50000,
+  "genres": ["action", "sci-fi"]
+}

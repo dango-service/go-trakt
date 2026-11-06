@@ -1,0 +1,17 @@
+{
+  "title": "Steins;Gate",
+  "year": 2011,
+  "ids": {
+    "trakt": 38165,
+    "slug": "steins-gate",
+    "tvdb": 248028,
+    "imdb": "tt1910272",
+    "tmdb": 42727
+  },
+  "overview": "A self-proclaimed mad scientist invents a microwave that sends text messages to the past.",
+  "status": "ended",
+  "rating": 9.1,
+  "votes": 12500,
+  "aired_episodes": 24,
+  "genres": ["anime", "sci-fi", "thriller"]
+}

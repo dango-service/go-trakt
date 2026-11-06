@@ -1,0 +1,31 @@
+[
+  {
+    "number": 1,
+    "ids": {
+      "trakt": 47685,
+      "tvdb": 42727,
+      "tmdb": 42727
+    },
+    "episode_count": 24,
+    "episodes": [
+      {
+        "season": 1,
+        "number": 1,
+        "title": "Turning Point",
+        "ids": {
+          "trakt": 863750,
+          "tvdb": 3482701
+        }
+      },
+      {
+        "season": 1,
+        "number": 2,
+        "title": "Time Travel Paranoia",
+        "ids": {
+          "trakt": 863751,
+          "tvdb": 3482702
+        }
+      }
+    ]
+  }
+]

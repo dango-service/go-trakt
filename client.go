@@ -63,15 +63,6 @@ func NewClient(clientID string, opts ...ClientOption) *Client {
 	return c
 }
 
-// SearchService handles title search and cross-catalog external ID lookups.
-type SearchService struct{ client *Client }
-
-// ShowsService handles show, season, and episode details.
-type ShowsService struct{ client *Client }
-
-// MoviesService handles movie details.
-type MoviesService struct{ client *Client }
-
 // SyncService handles watchlist queries, watch history, ratings, and activity polling.
 type SyncService struct{ client *Client }
 
