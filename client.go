@@ -63,9 +63,6 @@ func NewClient(clientID string, opts ...ClientOption) *Client {
 	return c
 }
 
-// SyncService handles watchlist queries, watch history, ratings, and activity polling.
-type SyncService struct{ client *Client }
-
 // ScrobbleService handles real-time playback scrobbling sessions.
 type ScrobbleService struct{ client *Client }
 

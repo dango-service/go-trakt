@@ -1,0 +1,18 @@
+[
+  {
+    "rank": 1,
+    "listed_at": "2026-11-06T18:00:00.000Z",
+    "type": "show",
+    "show": {
+      "title": "Steins;Gate",
+      "year": 2011,
+      "ids": {
+        "trakt": 38165,
+        "slug": "steins-gate",
+        "tvdb": 248028,
+        "imdb": "tt1910272",
+        "tmdb": 42727
+      }
+    }
+  }
+]
