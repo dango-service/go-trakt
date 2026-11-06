@@ -1,0 +1,8 @@
+{
+  "access_token": "trakt_at_test_access_token_1234567890",
+  "token_type": "Bearer",
+  "expires_in": 7776000,
+  "refresh_token": "trakt_rt_test_refresh_token_0987654321",
+  "scope": "public",
+  "created_at": 1700000000
+}

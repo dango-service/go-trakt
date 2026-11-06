@@ -1,0 +1,22 @@
+{
+  "user": {
+    "username": "dango_watcher",
+    "name": "Dango Watcher",
+    "vip": true,
+    "joined_at": "2026-01-10T12:00:00.000Z",
+    "location": "Earth",
+    "about": "Syncing anime with Dango",
+    "gender": "male",
+    "age": 25,
+    "ids": {
+      "slug": "dango_watcher",
+      "uuid": "abcdef-1234-5678-90ab"
+    }
+  },
+  "account": {
+    "timezone": "America/New_York",
+    "date_format": "mdy",
+    "time_24hr": false,
+    "cover_image": "https://walter.trakt.tv/images/users/cover.jpg"
+  }
+}

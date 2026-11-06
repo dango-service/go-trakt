@@ -62,12 +62,3 @@ func NewClient(clientID string, opts ...ClientOption) *Client {
 
 	return c
 }
-
-// ScrobbleService handles real-time playback scrobbling sessions.
-type ScrobbleService struct{ client *Client }
-
-// UsersService handles user settings and profile details.
-type UsersService struct{ client *Client }
-
-// AuthService handles OAuth2 Authorization Code, token refresh, token revoke, and Device/PIN flows.
-type AuthService struct{ client *Client }
